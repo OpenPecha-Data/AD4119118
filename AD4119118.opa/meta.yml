@@ -1,0 +1,26 @@
+id: AD4119118
+title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+type: translation
+pechas:
+- I30F11331
+- ID619B99A
+- I41666FB9
+- IF1544C46
+- I4F38822F
+- IC37DA7D4
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:46:24.995827
+  last_modified_at: 2023-02-09 14:46:24.995841
+alignment_to_base:
+  I30F11331/9666: DC11
+  ID619B99A/DE6E: DC11
+  I41666FB9/38BC: DC11
+  IF1544C46/1733: DC11
+  I4F38822F/9694: DC11
+  IC37DA7D4/0BDE: DC11
